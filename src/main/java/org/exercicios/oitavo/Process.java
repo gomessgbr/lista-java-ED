@@ -7,7 +7,7 @@ package org.exercicios.oitavo;
 public record Process(int pid, String description) {
     // Construtor
 
-    // Método para exibir as informações do processo
+
     public void printInfo() {
         System.out.println("Processo PID: " + pid + ", Descrição: " + description);
     }
