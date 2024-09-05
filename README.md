@@ -1,4 +1,4 @@
-#Lista de Java sobre estrutura de dados
+# Lista de Java sobre estrutura de dados
 
 Este repositório contém uma coleção de exercícios em Java que demonstram o uso de listas encadeadas e filas para simular diferentes sistemas de gerenciamento, como listas de tarefas, histórico de navegação, controle de operações de desfazer/refazer, e filas de atendimento e processos.
 
@@ -58,5 +58,6 @@ Para rodar os exercícios no seu ambiente de desenvolvimento:
 - **Java JDK**: Certifique-se de ter o [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) instalado.
 - **Git**: Se você ainda não clonou o repositório, pode fazer isso com o seguinte comando:
   ```bash
-  git clone https://github.com/gomessgbr/lista-java-ED.git
+   https://github.com/gomessgbr/lista-java-ED.git
+  ```
 
