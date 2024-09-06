@@ -61,3 +61,18 @@ Para rodar os exercícios no seu ambiente de desenvolvimento:
    https://github.com/gomessgbr/lista-java-ED.git
   ```
 
+
+ ### Executando 
+ Cada uma das pastas dos exercícios tem o seu o próprio arquivos Main
+  - Entre na pasta do exercício que deseja
+    ```bash
+        cd primeiro
+    ```
+  - Build o Main do exercício
+    ```bash
+        javac Main.java
+    ```
+  - Execute o exercicio
+    ```bash
+        java Main
+    ```
